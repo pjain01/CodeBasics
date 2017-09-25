@@ -8,7 +8,7 @@ public class EvenOdd {
 		int arr[] = {2,4,7,6,1,3,5,4};
 //		int arr[] = {5,7,9,1};
 //		int arr[] = {1};
-		
+
 		int starIdx = 0; 
 		int endIdx  = arr.length-1;
 		
